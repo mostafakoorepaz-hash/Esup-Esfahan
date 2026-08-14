@@ -13,6 +13,7 @@ source.include_exts = py,png,jpg,kv,atlas
 
 # نسخه برنامه
 version = 0.1
+
 android.archs = arm64-v8a
 
 # کتابخانه‌های مورد نیاز پایتون
